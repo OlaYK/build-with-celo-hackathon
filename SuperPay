@@ -1,0 +1,45 @@
+⚡ Hackathon Project Template ⚡
+This is a sample submission repository. Please fork this repo and use this as a starting point for your hackathon project.
+
+SuperPay
+
+Ibadan, Nigeria, Africa.
+Team Members
+Latunde Oluwanifemi, Full stack developer
+Rosanwo Oluwatowo, Full stack developer
+Oguntade Ayooluwa, Back end developer
+
+Project Description
+SuperPay is a Celo blockchain based web infrastructure that allows merchants and business owners to accept payments in any asset on the Celo ecosystem. 
+At SuperPay, we make it easy for merchants and developers to use Celo assets for payments and to accept payments and also monitor earnings and expenses.
+At SuperPay, we look to solve the problem of limited adoption of crypto assets as a method of payment instead of a fiat speculative asset by making it easy for merchants to integrate and manage payments using crypto assets. 
+We also look to eliminate some cumbersome steps developers go through while trying to integrate Celo based assets for payment such as wallet connect, indexers, Celo SDKs etc. by providing a well documented developer API with SDKs and code samples for easy integration.
+On the other hand, tracking payments or transactions on Celo Explorer might be quite confusing and overwhelming as there are lots of assets and transactions to different addresses going on. With SuperPay , you can easily add basic descriptions or tags to your transactions to  help track and manage earnings and expenses. 
+At SuperPay, we seek to eliminate lots of cumbersome steps for merchants and developers on the Celo blockchain in accepting payments and creating payment links respectively.
+The product also seeks to keep transactions analytics for merchants for ease of refer.
+
+Summary
+Landing page
+Connect wallet
+Payment link generation page
+Transaction history
+Payment link generation API
+Transaction history API
+Javascript SDK for Embedded links
+Python SDK support
+
+
+URLs
+No URLs availabe yet
+
+Presentation
+https://docs.google.com/presentation/d/1Z8gyl4D2tfuVy3Xjr58R4OysbXwhNDGKuEc8533ZYMo/edit?usp=sharing
+
+Next Steps
+This project is still in the ideation stage and would require funding to be built to its working stage.
+
+Hackathon track 
+Build with Celo Hackathon phase 1 
+
+License
+This repository includes an unlicensed statement though you may want to choose a different license.
